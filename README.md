@@ -4,11 +4,7 @@ Found this issue. Here are my notes on the fix.
 
 ![issue](/media/issue.JPG)
 
-## Windows Media Creation
-
-I utilized my trusted Windows Recovery USB tool. 
-
-### Bios
+## Bios
 
 Entering the BIOS I used `esc` or `del` for my hardware. 
 
